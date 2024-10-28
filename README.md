@@ -61,4 +61,4 @@ how much each person should pay and receive to/from each other person.
 
 ### Changelog
 
-- 28 October 2024: Moved project to new repository (here). All functionality maintained. 
+- 28 October 2024: Moved project to new repository ([here](https://github.com/nordqvig/CostShare)). All functionality maintained. 
