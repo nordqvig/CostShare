@@ -58,3 +58,7 @@ how much each person should pay and receive to/from each other person.
 
 - The API of this library will not be changed unless to deal with issues that can't be resolved in any other way. 
 - Version numbers follow semantic versioning. 
+
+### Changelog
+
+- 28 October 2024: Moved project to new repository (here). All functionality maintained. 
